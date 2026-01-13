@@ -1,4 +1,5 @@
 📦 Supply Chain Optimization End-to-End Analytics Project
+
 📌 Project Overview
 
 This project presents an end-to-end supply chain analytics solution, covering data cleaning, exploratory analysis, and interactive dashboarding.
@@ -8,6 +9,7 @@ The objective is to analyze warehouse inventory, refill behavior, and logistics 
 The project follows a real-world analytics workflow:
 
 Raw Data → Data Cleaning (Python) → Analysis → Power BI Dashboard
+
 
 🧩 Business Problem
 
@@ -23,6 +25,7 @@ Difficulty in identifying high-risk warehouses
 
 This project helps decision-makers identify problem areas and optimize supply chain operations.
 
+
 🛠 Tools & Technologies
 
 Python (Pandas, NumPy, Matplotlib)
@@ -33,9 +36,11 @@ Power BI – Data modeling & dashboard creation
 
 CSV Dataset – Supply Chain Management data
 
+
 📓 Data Cleaning & Preprocessing (Python Notebook)
 
 All data preparation was performed in a Jupyter Notebook before importing the data into Power BI.
+
 
 ✔ Steps Performed:
 
@@ -57,6 +62,7 @@ Exported a clean, analysis-ready dataset for Power BI
 
 📂 Notebook file: Supply Chain Management.ipynb
 
+
 📊 Power BI Dashboard Overview
 
 The final dashboard provides an interactive view of supply chain performance.
@@ -70,6 +76,7 @@ The final dashboard provides an interactive view of supply chain performance.
 🔄 Average Refill Requests – Mean refill frequency (last 3 months)
 
 🚚 Transport Issue % – Warehouses impacted by transport issues
+
 
 📈 Visualizations Included
 🔹 Inventory Analysis
@@ -102,6 +109,7 @@ Transport issues affect a significant percentage of warehouses
 
 Warehouse capacity and location strongly influence operational efficiency
 
+
 💼 Business Impact
 
 This analysis can help organizations:
@@ -113,6 +121,7 @@ Reduce refill frequency through better planning
 Identify high-risk warehouses
 
 Improve logistics and transport decision-making
+
 
 📁 Project Structure
 📦 Supply Chain Optimization
